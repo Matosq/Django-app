@@ -25,7 +25,7 @@ SECRET_KEY = 'f#ve+oli83b3awk7ugp5(bpi*)%*v(6$z@75dtdeakug2kdm2z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Matosq.pythonanywhere.com']
 
 
 # Application definition
